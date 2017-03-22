@@ -1,0 +1,12 @@
+img{
+    width:220px;
+    margin: 10px;
+    border:solid;
+}
+body{
+    font-family: 'Lobster', cursive;
+    background-image:url("https://www.walldevil.com/wallpapers/a39/floral-website-black-mebbe-albums-desktop-background-wallpaper-images.jpg");
+}
+h1{
+    color:white;
+}
